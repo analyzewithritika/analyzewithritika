@@ -1,23 +1,26 @@
-<h1 align="center">Hi🖐, I'm Sanghamitra Satpathy.</h1>
+<h1 align="center">Hi🖐, I'm Ritika Rawat.</h1>
 
-<h4 align="center">I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things and focus on writing clean, elegant and efficient code</h4>
+<h4 align="center">I'm a passionate Data Analyst who thrives on uncovering insights and solving problems through data. I love experimenting with new tools and techniques, continuously learning, and focusing on delivering clean, accurate, and actionable results.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&label=Profile%20views&color=0e75b6&style=flat" alt="sanghamitra0591" /> </p>
 
-- 🌍 I'm from **Cuttack, Odisha.**
+- 🌍 I'm from **Lucknow, Uttar pradesh.**
 
 
-- 👨‍💻 All of my projects are available at [https://sanghamitra0591.github.io/](https://sanghamitra0591.github.io/)
+- 👨‍💻 Currently working as a Data analysts Intern at [SNVA Group](https://snva.com/)
 
-- 💼 LinkedIn Profile:- [https://www.linkedin.com/in/sanghamitra-satpathy/](https://www.linkedin.com/in/sanghamitra-satpathy/)
+- 💬 Ask me about **Python, MySQL, MongoDB, PostgreSQL, Amazon Redshift, Google BigQuery, Azure Synapse, Snowflake**
 
-- 💬 Ask me about **React, Chakra UI, MongoDB, Node.js, Express.js**
+- 🔭 This is [My Portfolio](https://www.linkedin.com/in/ritika-rawat-9287a1253/)
+  
+- 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/ritika-rawat-9287a1253/)
 
-- 📫 How to reach me **sanghamitramymail@gmail.com**
+- 📄 This is [My Resum](https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link](https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
+-  📫 How to reach me:   **rawatritika095@gmail.com**
 
 - 😃 My interest **Crafts & Swimming**.
+
 
 <p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
 
