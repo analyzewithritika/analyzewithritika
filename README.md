@@ -7,7 +7,7 @@
 - 🌍 I'm from **Lucknow, Uttar pradesh.**
 
 
-- 👨‍💻 Currently working as a Data analysts Intern at [SNVA Group](https://snva.com/)
+- 👨‍💻 Currently working as a Business Analyst Intern at [SNVA Group](https://snva.com/)
 
 - 💬 Ask me about **Python, MySQL, MongoDB**
 
@@ -15,7 +15,7 @@
   
 - 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
 
-- 📄 This is [My Resume](https://drive.google.com/file/d/1cRwTWYiRduLanPSL1TpFE_H6sC6G6bJa/view)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1GAlNOVdQHPIAuWTBDeOpVGilB85JGuuy/view?usp=drive_link)
 
 -  📫 How to reach me:   **rawatritika095@gmail.com**
 
