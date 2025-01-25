@@ -15,7 +15,7 @@
   
 - 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
 
-- 📄 This is [My Resum](https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
+- 📄 This is [My Resum](https://drive.google.com/file/d/1cRwTWYiRduLanPSL1TpFE_H6sC6G6bJa/view)
 
 -  📫 How to reach me:   **rawatritika095@gmail.com**
 
