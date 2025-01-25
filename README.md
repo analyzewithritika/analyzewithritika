@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, MySQL, MongoDB, PostgreSQL, Amazon Redshift, Google BigQuery, Azure Synapse, Snowflake**
 
-- 🔭 This is [My Portfolio](https://www.linkedin.com/in/ritika-rawat-9287a1253/)
+- 🔭 This is [My Portfolio](https://analyzewithritika.github.io/)
   
 - 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
 
