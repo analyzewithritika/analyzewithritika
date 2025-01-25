@@ -13,7 +13,7 @@
 
 - 🔭 This is [My Portfolio](https://www.linkedin.com/in/ritika-rawat-9287a1253/)
   
-- 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/ritika-rawat-9287a1253/)
+- 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
 
 - 📄 This is [My Resum](https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
 
