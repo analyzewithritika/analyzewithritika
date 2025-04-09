@@ -4,10 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=analyzewithritika&label=Profile%20views&color=0e75b6&style=flat" alt="Ritika Rawat" /> </p>
 
-- 🌍 I'm from **Lucknow, Uttar pradesh.**
+- 🌍 I'm from **Jhansi, Uttar pradesh.**
 
 
-- 👨‍💻 Currently working as a Business Analyst Intern at [SNVA Group](https://snva.com/)
+- 👨‍💻 Currently working as a Data researcher Intern at [Collegedunia](https://collegedunia.com/)
 
 - 💬 Ask me about **Python, MySQL, MongoDB**
 
@@ -15,7 +15,7 @@
   
 - 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
 
-- 📄 This is [My Resume](https://drive.google.com/file/d/1GAlNOVdQHPIAuWTBDeOpVGilB85JGuuy/view?usp=drive_link)
+- 📄 This is [My Resume](https://docs.google.com/document/d/1AGsipL9wfkdcaGS3tqpGC5kcGDzhRM71/edit?usp=drive_link&ouid=107572833701526255063&rtpof=true&sd=true)
 
 -  📫 How to reach me:   **rawatritika095@gmail.com**
 
