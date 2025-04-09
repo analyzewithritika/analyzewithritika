@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working as a Data researcher Intern at [Collegedunia](https://collegedunia.com/)
 
-- 💬 Ask me about **Python, MySQL, MongoDB**
+- 💬 Ask me about **Python, Data and Business analysis**
 
 - 🔭 This is [My Portfolio](https://analyzewithritika.github.io/)
   
